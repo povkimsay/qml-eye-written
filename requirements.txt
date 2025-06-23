@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scikit-learn==1.5.0
+
+# Quantum
+pennylane==0.40.0
+
+# Visual
+ace_tools
+seaborn
+matplotlib
+
+# Framework
+torch==2.4.0
+torchvision
